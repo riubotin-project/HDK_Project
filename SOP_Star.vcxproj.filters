@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\RENDER03\HDK\toolkit\samples\SOP\SOP_Star\SOP_Star.C">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\RENDER03\HDK\toolkit\samples\SOP\SOP_Star\SOP_Star.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\RENDER03\HDK\build\CMakeFiles\7030ce8a70543cc15f9564275d9ceb5d\SOP_Star.proto.h.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\RENDER03\HDK\toolkit\samples\SOP\SOP_Star\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{98DC2C19-AFAA-38C3-A9E8-EB635BAD92BE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0E24C233-C030-38BF-8643-9C411121EDB3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{21309197-3489-3C0A-B4D2-03EED6C21EF5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
